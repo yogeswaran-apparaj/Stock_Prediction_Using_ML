@@ -63,7 +63,8 @@ Predict future stock prices using machine learning techniques like LSTM and tech
 
 *LSTM Prediction vs. Actual Closing Price:*
 
-> (You can add a screenshot of your output chart here.)
+![image](https://github.com/user-attachments/assets/9697a175-03e2-45fe-8e2e-5f4f0ec4eace)
+
 
 ---
 
