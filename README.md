@@ -39,12 +39,19 @@ Predict future stock prices using machine learning techniques like LSTM and tech
 ## 📂 Project Structure
 
 📁 Stock_Prediction_Using_ML/
+
 │
+
 ├── AAPL.csv                   # Raw stock data (downloaded)
+
 ├── AAPL_with_indicators.csv   # Processed data with SMA and RSI
+
 ├── data_downloader.ipynb      # Script to download stock data from Yahoo Finance
+
 ├── feature_engineering.ipynb  # Adds technical indicators (SMA, RSI)
+
 ├── lstm_model.ipynb           # LSTM model training, evaluation, and visualization
+
 └── README.md                  # Project documentation (this file)
 
 ---
